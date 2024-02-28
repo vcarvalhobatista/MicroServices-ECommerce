@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iW/UJAKUDwid3hiRkmJwFWUaABIUlnj+HBZ5ZeyfbdMLB2aUmhgBNKL8e1vrPwPbm9cBiCjbV6FmAwJggS9GGQ==",
+  "dgSpecHash": "uII7J+a4WhXgJe3EhtuRM81H2gIDSYq0QpZft3YqM6WXde3VelPPc/AMATrDWbxprHyZBOfIZkR5O0WRmIdeIw==",
   "success": true,
-  "projectFilePath": "c:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\GeekShopping.API\\GeekShopping.API.csproj",
+  "projectFilePath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\Services\\GeekShopping.API\\GeekShopping.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\vinic\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\vinic\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
@@ -67,7 +67,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Versão detectada do pacote fora da restrição de dependência: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requer AutoMapper (= 12.0.1), mas a versão AutoMapper 13.0.1 foi resolvida.",
+      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 13.0.1 was resolved.",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"

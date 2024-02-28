@@ -3089,11 +3089,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\GeekShopping.API\\GeekShopping.API.csproj",
+      "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\Services\\GeekShopping.API\\GeekShopping.API.csproj",
       "projectName": "GeekShopping.API",
-      "projectPath": "c:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\GeekShopping.API\\GeekShopping.API.csproj",
+      "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\Services\\GeekShopping.API\\GeekShopping.API.csproj",
       "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\GeekShopping.API\\obj\\",
+      "outputPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\Services\\GeekShopping.API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -3107,6 +3107,7 @@
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3180,7 +3181,7 @@
       "code": "NU1608",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "Versão detectada do pacote fora da restrição de dependência: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requer AutoMapper (= 12.0.1), mas a versão AutoMapper 13.0.1 foi resolvida.",
+      "message": "Detected package version outside of dependency constraint: AutoMapper.Extensions.Microsoft.DependencyInjection 12.0.1 requires AutoMapper (= 12.0.1) but version AutoMapper 13.0.1 was resolved.",
       "libraryId": "AutoMapper",
       "targetGraphs": [
         "net8.0"

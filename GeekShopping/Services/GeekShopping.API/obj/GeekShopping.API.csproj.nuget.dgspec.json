@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\GeekShopping.API\\GeekShopping.API.csproj": {}
+    "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\Services\\GeekShopping.API\\GeekShopping.API.csproj": {}
   },
   "projects": {
-    "c:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\GeekShopping.API\\GeekShopping.API.csproj": {
+    "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\Services\\GeekShopping.API\\GeekShopping.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\GeekShopping.API\\GeekShopping.API.csproj",
+        "projectUniqueName": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\Services\\GeekShopping.API\\GeekShopping.API.csproj",
         "projectName": "GeekShopping.API",
-        "projectPath": "c:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\GeekShopping.API\\GeekShopping.API.csproj",
+        "projectPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\Services\\GeekShopping.API\\GeekShopping.API.csproj",
         "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\GeekShopping.API\\obj\\",
+        "outputPath": "C:\\Users\\vinic\\OneDrive\\Área de Trabalho\\Laboratório\\LABORATÓRIO\\MicroServices-ECommerce\\GeekShopping\\Services\\GeekShopping.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -25,6 +25,7 @@
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
