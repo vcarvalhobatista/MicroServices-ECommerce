@@ -6,7 +6,6 @@ C:\Users\vinic\OneDrive\Área de Trabalho\Laboratório\LABORATÓRIO\MicroService
 C:\Users\vinic\OneDrive\Área de Trabalho\Laboratório\LABORATÓRIO\MicroServices-ECommerce\GeekShopping\Services\GeekShopping.API\bin\Debug\net8.0\GeekShopping.API.dll
 C:\Users\vinic\OneDrive\Área de Trabalho\Laboratório\LABORATÓRIO\MicroServices-ECommerce\GeekShopping\Services\GeekShopping.API\bin\Debug\net8.0\GeekShopping.API.pdb
 C:\Users\vinic\OneDrive\Área de Trabalho\Laboratório\LABORATÓRIO\MicroServices-ECommerce\GeekShopping\Services\GeekShopping.API\bin\Debug\net8.0\AutoMapper.dll
-C:\Users\vinic\OneDrive\Área de Trabalho\Laboratório\LABORATÓRIO\MicroServices-ECommerce\GeekShopping\Services\GeekShopping.API\bin\Debug\net8.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
 C:\Users\vinic\OneDrive\Área de Trabalho\Laboratório\LABORATÓRIO\MicroServices-ECommerce\GeekShopping\Services\GeekShopping.API\bin\Debug\net8.0\Humanizer.dll
 C:\Users\vinic\OneDrive\Área de Trabalho\Laboratório\LABORATÓRIO\MicroServices-ECommerce\GeekShopping\Services\GeekShopping.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
 C:\Users\vinic\OneDrive\Área de Trabalho\Laboratório\LABORATÓRIO\MicroServices-ECommerce\GeekShopping\Services\GeekShopping.API\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
