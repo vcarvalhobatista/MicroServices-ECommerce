@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/FrontEnd/">
+    <Project Path="ECommerce.Web/ECommerce.Web.csproj" Id="8c3c6b9a-6d0d-45f5-9a6e-08b47eb06bc4" />
+  </Folder>
+  <Folder Name="/Services/">
+    <Project Path="ECommerce.ProductAPI/ECommerce.ProductAPI.csproj" Id="3dde6bf8-0b61-4d14-87c0-bc696ecd68f5" />
+  </Folder>
+</Solution>
